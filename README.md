@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Rakshita Aggarwal
 
-<!--
-**Rakshiiii08/Rakshiiii08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Aspiring Developer
 
-Here are some ideas to get you started:
+💻 Learning and building with C, HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Interested in web development, problem-solving, and programming fundamentals
+
+
+📚 Focused on continuous learning and skill improvement
+
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
